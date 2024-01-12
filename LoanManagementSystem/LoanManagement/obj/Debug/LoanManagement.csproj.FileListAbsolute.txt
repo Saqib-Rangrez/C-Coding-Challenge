@@ -1,0 +1,7 @@
+C:\Users\saqui\source\repos\LoanManagement\LoanManagement\obj\Debug\LoanManagement.csproj.AssemblyReference.cache
+C:\Users\saqui\source\repos\LoanManagement\LoanManagement\obj\Debug\LoanManagement.csproj.CoreCompileInputs.cache
+C:\Users\saqui\source\repos\LoanManagement\LoanManagement\bin\Debug\LoanManagement.exe.config
+C:\Users\saqui\source\repos\LoanManagement\LoanManagement\bin\Debug\LoanManagement.exe
+C:\Users\saqui\source\repos\LoanManagement\LoanManagement\bin\Debug\LoanManagement.pdb
+C:\Users\saqui\source\repos\LoanManagement\LoanManagement\obj\Debug\LoanManagement.exe
+C:\Users\saqui\source\repos\LoanManagement\LoanManagement\obj\Debug\LoanManagement.pdb
